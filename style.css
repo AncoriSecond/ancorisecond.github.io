@@ -44,13 +44,10 @@ ul {
     margin: 0;
     padding: 0;
     width: 8%;
-    background-color: #f1f1f1;
+    background-color: white;
     height: 100%;
-    /* Full height */
     position: fixed;
-    /* Make it stick, even on scroll */
     overflow: auto;
-    /* Enable scrolling if the sidenav has too much content */
 }
 
 li a {
